@@ -1,13 +1,5 @@
 {
     "stocks": [],
-    "bullions": [
-        {
-            "metal": "Gold",
-            "symbol": "GC=F",
-            "quantity": 1.0,
-            "purchase_price": 4111.06,
-            "date_added": "2025-10-26 01:34:31"
-        }
-    ],
+    "bullions": [],
     "forex": []
 }
